@@ -13,7 +13,7 @@
   - &nbsp; with a mocked live auction feature using WebSockets
 - 🔭 &nbsp; Currently looking for Software Engineer or PM internships for spring/summer 2027
 - 🌟 &nbsp; I enjoy designing apps on [![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)](#) and bringing them to life!
-- 📫 &nbsp; Feel free to say hi on [linkedin](https://www.linkedin.com/in/zeyan-l/) or [my email](zl537@drexel.edu) 
+- 📫 &nbsp; Feel free to say hi on [linkedin](https://www.linkedin.com/in/zeyan-l/) or my email (zl537@drexel.edu) 
 
 ### 🛠 &nbsp;Tech Stack
 - 🌐 &nbsp;
